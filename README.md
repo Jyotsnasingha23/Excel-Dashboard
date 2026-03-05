@@ -38,6 +38,6 @@ Included:
 - `Mobile_Sales_Data.xlsx` — Raw dataset
 - `Dashboard.xlsx` — Excel dashboard with analysis
 - `README.md` — Project description
-
+![output](/output.png)
 ## 📌 Tools Used
 - Microsoft Excel (tables, PivotTables, charts)
